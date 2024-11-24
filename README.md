@@ -16,7 +16,7 @@ This is a Javascript-based demo of various vector fusion algorithms.
 ![architecture]()  
 
 ## Features <a name="features"></a>
-- ExpressJS-based REST API server, data loading functionality, and HTML GUI to demonstrate rental availability search.
+- 
 
 ## Prerequisites <a name="prerequisites"></a>
 - Docker
