@@ -1,4 +1,4 @@
-# Redis Rental Availability Demo
+# Fusion Demo
 
 ## Contents
 1.  [Summary](#summary)
